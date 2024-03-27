@@ -2,6 +2,18 @@
 # GTP Gate System
 
 
+## Library yang digunakan
+- TFT_eSPI
+- SPI
+- MFRC522
+- SoftwareSerial
+
+## Pin yang digunakan
+// pin untuk RFID
+- SS_PIN 21
+- RST_PIN 22
+// pin motor gate
+- pin 2
 
 
 ## API Reference
